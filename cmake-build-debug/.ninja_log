@@ -1,0 +1,5 @@
+# ninja log v6
+3	294	7439490115892492	build.ninja	f621c3f172da4f13
+19	545	7439490116651042	CMakeFiles/BobBuilder.dir/main.cpp.obj	b57f91c6ed27efb0
+7	75	7439490389208224	CMakeFiles/BobBuilder.dir/src/func.cpp.obj	7e634ed7c29d7eb8
+75	223	7439490389890993	BobBuilder.exe	efdae2070f250744

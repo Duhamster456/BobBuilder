@@ -1,0 +1,3 @@
+D:/vkrestkrest/BobBuilder/cmake-build-debug/CMakeFiles/BobBuilder.dir
+D:/vkrestkrest/BobBuilder/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/vkrestkrest/BobBuilder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
